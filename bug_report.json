@@ -1,1 +1,13 @@
-
+{
+    "Summary": "Test_QA",
+    "Project": "GIT_GitHub",
+    "Component": "Test",
+    "Author": "Сhembeleeva",
+    "Version": "V1",
+    "Severity": "S1",
+    "Priority": "P3_Low",
+    "Steps_to_Reproduce": "Test",
+    "Actual_Result": "Test" ,
+    "Expected_Result": "Test",
+    "Additional_information":"Test"
+}
